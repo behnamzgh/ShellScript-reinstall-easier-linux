@@ -14,5 +14,3 @@ sudo rm -f google-chrome-stable_current_amd64.deb
 cd ~
 
 echo "All done! please reboot the system."
-
-hello
