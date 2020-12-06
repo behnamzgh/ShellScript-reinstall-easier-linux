@@ -5,7 +5,7 @@ sudo apt update -qq
 sudo apt install -yy htop gdebi
 
 sudo apt install -yy openssh-server virtualbox
-sudo adduser ${USERNAME} vboxusers
+sudo adduser ${USER} vboxusers
 
 cd /home/codepoete/Downloads
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
