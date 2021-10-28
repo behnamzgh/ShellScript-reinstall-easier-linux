@@ -2,9 +2,9 @@
 
 cd ~
 sudo apt update -qq
-sudo apt install -yy htop gdebi
+sudo apt install -yy htop gdebi terminator vim curl screenfetch aria2 apache2 speedtest bat unrar php phpmyadmin mariadb-server build-essential gcc loc openssh-server
 
-sudo apt install -yy openssh-server virtualbox
+sudo apt install -yy virtualbox
 sudo adduser ${USER} vboxusers
 
 cd /home/codepoete/Downloads
